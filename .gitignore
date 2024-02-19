@@ -213,3 +213,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+#Added to gitignore file 
+abc.txt
